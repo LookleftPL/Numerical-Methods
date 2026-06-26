@@ -41,12 +41,12 @@ Repository contains a comprehensive collection of numerical analysis algorithms 
 * **Romberg Integration with Cutoff Optimization** (zadanie15.py): Computing improper integrals by finding an analytical tail cutoff threshold (A = -ln epsilon), applying variable substitution (x = t^2), and generating a recursive Romberg table using Richardson extrapolation.
 * **Dynamic Interval Romberg Integration** (zadanie16.py): Numerical estimation of limits at infinity (lim x->inf F(x)) using dynamic bounds expansion and integration checking via cumulative sum evaluation.
 
-## 🛠️ Technologies & Libraries
+##  Technologies & Libraries
 * **Python 3.x**
 * **NumPy** (for array operations, vector products, and basic linear algebra helpers)
 * **Matplotlib** (for plotting functions, interpolation shapes, and algorithm convergence rates)
 
-## 📝 How to Run
+##  How to Run
 To execute any specific assignment and see the mathematical output or plots, run the script directly from your terminal:
 ```bash
 python zadanie21.py
